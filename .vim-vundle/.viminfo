@@ -1,0 +1,1172 @@
+# 这个 viminfo 文件是由 Vim 7.2 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/\$[
+
+# 上个 替换 Search 图案：
+~MSle0&03-23
+
+# 最后替换的字符串
+$03-24
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:wq
+:w
+:q!
+:%s/03-23/03-24
+:qa!
+:q!a
+:e ~/.vimrc
+:Bundle "l9"
+:BundleInstall MRU
+:BundleInstall MRU.vim
+:$MkVimball
+:M
+:YRShow
+:YRClear
+:YRToggle
+:help yankring
+:YRPaste
+:yank
+:yankring
+:version
+:sniff
+:help visual
+:visual
+:tags
+:GetScripts
+:GetLatestVimScripts
+:qa
+:BundleSearch python
+::q!
+:vmenu
+:Translate hello
+:Translate hello world
+:Translate
+:so %
+:guW
+:%s/\w*/\u&/g
+:%s/\w*/\^u&/g
+:%s\w*/\u&/g
+:%s/^[a-z]
+:%s/^[a-z]/^[A-Z]
+:diffthis
+:diffthis ~/.vimrc
+:w ~/vimrc.bak
+:e ~/Public/src/main.c
+:'<,'>vimgrep /next/ **/*.
+:call VisualSearch('gv')
+:s
+:tabNext
+:wqa!
+:wqa
+:wq!
+:close
+:tabdo shell
+:help tabdo
+:helptabdo
+:tabdo
+:tabs
+:tabnew ~/.vim/plugin/hotkey.vim
+:\be
+:help Bundle 
+:Bundle 
+:shell
+:MRU
+:tabnext
+:tabnew
+:help map.txt
+:help
+:help hotkey
+:help keymap
+:help 'keymap'
+:help 'key'
+:BundleInstall bufexplorer.zip
+:help ruby
+:ruby --help
+:rubyfile
+:ruby
+:GoogleReader
+:help Translate
+:Translate 
+:Translate Fuck
+:q]
+:Bundles
+:mru
+:BundleInstall mru.vim
+:BundleInstall 
+:BundleInstall surround.vim
+:BundleInstall YankRing.vim
+:colorscheme darkblue
+:colorscheme delek
+:echo "fuck"
+:echo fuck
+:echo 
+:echo completeopt
+:echo rtp
+:colorscheme peaksea
+:BundleInstall peaksea
+:BundleInstall perforce
+:colorscheme zellner
+:colorscheme peakesa
+:colorscheme
+:next
+:tab
+:newtab
+:tabclose
+:BundleInstall Google-translator
+:BundleInstall GoogleReader.vim
+:BundleInstall ctags.vim
+:buffer
+:buffers
+:BundleInstall Buffer-Menus
+:help shell-window
+:silent
+:bar
+:!cmd
+:help shell
+:BundleInstall Shell.vim
+:Bundles e
+: if some plugins fail to work, put the config *between* lines:
+:Bundles c()
+:BundleInstall set rtp+=~/.vim/vundle.git/
+:BundleDocs
+:Bundle --help
+:Bundle
+:vundle
+:vunmap
+:vunmenu
+:BundleInstall
+:!emacs --debug-init
+:ew
+:syntax on
+:Wq
+:e 
+:<help>
+:help keycodes
+:nmap <space> <pagedown>
+:call ~/check.vim
+:read
+:gvim
+:cmap
+:cmenu
+:filetype plugin on
+:helptags ~/.vim/doc/
+
+# 查找字符串 历史记录 (从新到旧)：
+? ^.\+$
+?/\$[
+? 03-23
+?/byo
+?/TERM
+?/\<silent>
+?/colorsc
+?/LAN
+?/cn
+?/utf8
+? \<mru\>
+? \<MRU\>
+?/MRU
+?/mru
+?/path
+?/YR
+?/YRK
+?/yk
+?/yankring
+? \<VisualSearch\>
+?/visual
+?/desktop
+?/^M
+?/quit
+?/exit
+?/mapping
+?/J
+?/{{
+? \w*
+? ^[a-z]
+?/cwd
+?/==
+?/${o
+?/$o{
+? \<silent\>
+? \<Map\>
+? \<map\>
+?/<silent> 
+?/bn
+?/tabn
+?/bufexplorer
+?/leader
+?/key
+?/key 
+?/ke
+?/<leader>
+?/peak
+?/peaksea
+?/colorscheme
+?/colors
+?/color
+?//git.wincent.com/command-t.git"
+? \<Bundle\>
+?/rsync
+?/sync
+?/fals
+? 8
+? 4
+?/tai
+?/taiwan
+?/tw
+?/big
+?/big5
+?/firefox-bin
+?/-bin
+?/bin
+?/run
+?/exe
+?/exec
+?/fuck
+?/word
+?/forword
+?/xfor
+?/cp
+?/gdmcp
+?/gdm
+?/xdm
+?/xdmcp
+?/Display
+?/DisplayManager
+?/opera
+?/Location
+?/List
+?/print
+?/print$
+?/cup
+?/max
+? \'
+?/user
+? \<target\>
+?/CHAP
+?/Cont
+?/auth
+?/disco
+?/method
+?/Auth
+?/discovery
+?/discove
+?/Discove
+?/Initial
+? \<ScsiID\>
+?/snip
+
+# 表达式 历史记录 (从新到旧)：
+======================================================== 
+
+# 输入行 历史记录 (从新到旧)：
+@l9
+@sixand
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	Label		plp
+	Menu Label	plop boot mangager
+	Linux		plpinstc.com	
+	
+"1	BLOCK	0
+	$
+	$
+	$
+	$
+	$
+	$
+	$
+"2	LINE	0
+	<from >
+"3	LINE	0
+	Label		plp
+	Menu Label	plop boot mangager
+	Linux		plpinstc.com	
+	
+"4	LINE	0
+	Label		plp
+	Menu Label	plop boot mangager
+	Linux		plpinstc.com	
+	
+"5	LINE	0
+	
+"6	LINE	0
+	peaksea
+"7	LINE	0
+	chinese         zh_CN.UTF-8
+"8	LINE	0
+	
+"9	BLOCK	0
+	"
+	"
+"-	CHAR	0
+	 
+
+# 文件标记:
+'0  1  0  ~/.ssh/known_hosts
+'1  443  9  ~/.vimrc
+'2  3  0  ~/Public/src/main.c
+'3  2  10  ~/Desktop/test.html
+'4  1  0  ~/Desktop/交办范例.txt
+'5  66  20  ~/.bashrc
+'6  63  8  ~/.bashrc
+'7  24  0  ~/.profile
+'8  1  0  ~/.profile
+'9  32  7  ~/.bashrc
+
+# 跳转列表 (从新到旧):
+-'  1  0  ~/.ssh/known_hosts
+-'  443  9  ~/.vimrc
+-'  442  0  ~/.vimrc
+-'  617  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  3  0  ~/Public/src/main.c
+-'  4  4  ~/Public/src/main.c
+-'  1  0  ~/Public/src/main.c
+-'  2  10  ~/Desktop/test.html
+-'  1  0  ~/Desktop/test.html
+-'  5  0  ~/Desktop/test.html
+-'  1  0  ~/Desktop/交办范例.txt
+-'  66  20  ~/.bashrc
+-'  61  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  63  4  ~/.bashrc
+-'  59  0  ~/.bashrc
+-'  24  0  ~/.profile
+-'  1  0  ~/.profile
+-'  32  7  ~/.bashrc
+-'  68  0  ~/.bashrc
+-'  137  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  134  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  54  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  55  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  1  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  14  20  /var/tmp/fuckgfw.XXkNZA4Q
+-'  1  0  /var/tmp/fuckgfw.XXkNZA4Q
+-'  14  23  /var/tmp/fuckgfw.XXgir9ZZ
+-'  1  0  /var/tmp/fuckgfw.XXgir9ZZ
+-'  4  39  /usr/bin/fuckgfw
+-'  1  0  /usr/bin/fuckgfw
+-'  360  10  ~/.vimrc
+-'  15  0  ~/.vimrc
+-'  10  0  ~/.vimrc
+-'  16  48  ~/.vimrc
+-'  195  21  ~/.vimrc
+-'  192  2  ~/.vimrc
+-'  3  21  ~/.vimrc
+-'  5  28  ~/.vimrc
+-'  42  0  /var/tmp/larch.XXfr3KTd
+-'  1  0  /var/tmp/larch.XXfr3KTd
+-'  55  11  /var/tmp/bash_completion.XXTZe1lu
+-'  54  25  /var/tmp/bash_completion.XXTZe1lu
+-'  1635  16  /var/tmp/bash_completion.XXTZe1lu
+-'  1622  0  /var/tmp/bash_completion.XXTZe1lu
+-'  207  0  /var/tmp/bash_completion.XXTZe1lu
+-'  1  0  /var/tmp/bash_completion.XXTZe1lu
+-'  11  0  /var/tmp/bash_completion.sh.XXFCnDbs
+-'  1  0  /var/tmp/bash_completion.sh.XXFCnDbs
+-'  25  0  /var/tmp/locale.alias.XXnXbAYt
+-'  63  0  /var/tmp/locale.alias.XXnXbAYt
+-'  74  0  /var/tmp/locale.alias.XXnXbAYt
+-'  1  0  /var/tmp/locale.alias.XXnXbAYt
+-'  75  26  /var/tmp/locale.alias.XXD9FWv3
+-'  63  0  /var/tmp/locale.alias.XXD9FWv3
+-'  66  0  /var/tmp/locale.alias.XXD9FWv3
+-'  45  0  /var/tmp/locale.alias.XXD9FWv3
+-'  1  0  /var/tmp/locale.alias.XXD9FWv3
+-'  7  0  /var/tmp/profile.XXtsttsl
+-'  1  0  /var/tmp/profile.XXtsttsl
+-'  17  1  ~/.vimrc
+-'  14  0  ~/.vimrc
+-'  18  0  ~/.vimrc
+-'  13  0  ~/.vimrc
+-'  583  48  ~/.vimrc
+-'  582  0  ~/.vimrc
+-'  578  0  ~/.vimrc
+-'  107  19  ~/.vimrc
+-'  96  45  ~/.vimrc
+-'  95  45  ~/.vimrc
+-'  11  0  ~/.vimrc
+-'  94  8  ~/.vimrc
+-'  2  10  ~/Desktop/test.html
+-'  1  0  ~/Desktop/test.html
+-'  5  0  ~/Desktop/test.html
+-'  1  0  ~/Desktop/交办范例.txt
+-'  66  20  ~/.bashrc
+-'  61  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  63  4  ~/.bashrc
+-'  59  0  ~/.bashrc
+-'  24  0  ~/.profile
+-'  1  0  ~/.profile
+-'  32  7  ~/.bashrc
+-'  68  0  ~/.bashrc
+-'  137  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  134  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  54  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  55  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  1  0  /media/RAN/boot/syslinux/syslinux.cfg
+-'  14  20  /var/tmp/fuckgfw.XXkNZA4Q
+-'  1  0  /var/tmp/fuckgfw.XXkNZA4Q
+-'  14  23  /var/tmp/fuckgfw.XXgir9ZZ
+-'  443  9  ~/.vimrc
+-'  442  0  ~/.vimrc
+-'  617  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.ssh/known_hosts
+	"	1	0
+
+> ~/.vimrecent
+	"	4	0
+	^	1	19
+	.	1	0
+	+	4	0
+	+	4	21
+	+	4	21
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> ~/.vimrc
+	"	443	9
+	^	443	10
+	.	444	0
+	+	28	0
+	+	27	0
+	+	187	0
+	+	468	0
+	+	187	6
+	+	187	0
+	+	189	0
+	+	187	0
+	+	194	21
+	+	581	0
+	+	369	0
+	+	374	0
+	+	374	0
+	+	369	0
+	+	369	0
+	+	373	0
+	+	369	15
+	+	370	15
+	+	373	24
+	+	309	0
+	+	383	0
+	+	383	0
+	+	383	0
+	+	383	0
+	+	383	0
+	+	383	0
+	+	440	0
+	+	440	0
+	+	439	0
+	+	441	10
+	+	442	10
+	+	443	10
+	+	444	11
+	+	445	10
+	+	446	10
+	+	447	10
+	+	1	0
+	+	1	0
+	+	444	11
+	+	432	4
+	+	441	9
+	+	442	9
+	+	443	9
+	+	444	9
+	+	445	9
+	+	446	9
+	+	447	9
+	+	449	0
+	+	12	0
+	+	442	0
+	+	448	0
+	+	441	9
+	+	442	0
+	+	450	0
+	+	311	0
+	+	312	5
+	+	311	4
+	+	191	0
+	+	1	0
+	+	311	0
+	+	1	0
+	+	1	0
+	+	311	0
+	+	1	0
+	+	311	0
+	+	1	0
+	+	1	0
+	+	12	0
+	+	372	0
+	+	370	14
+	+	373	15
+	+	371	0
+	+	55	0
+	+	293	0
+	+	11	0
+	+	16	0
+	+	17	2
+	+	18	1
+	+	530	0
+	+	533	0
+	+	534	0
+	+	11	0
+	+	582	0
+	+	583	0
+	+	17	0
+	+	18	0
+	+	17	0
+	+	19	0
+	+	18	1
+	+	17	1
+	+	1	0
+	+	3	21
+	+	5	28
+	+	3	21
+	+	195	21
+	+	16	0
+	+	16	0
+	+	16	0
+	+	15	0
+	+	444	0
+
+> ~/Public/src/main.c
+	"	3	0
+	.	4	0
+	+	1	0
+	+	2	21
+	+	3	6
+	+	2	9
+	+	5	0
+	+	4	4
+	+	4	0
+	+	4	0
+	+	4	0
+
+> ~/Desktop/test.html
+	"	2	10
+	^	2	11
+	.	2	10
+	+	1	42
+	+	5	10
+	+	6	0
+	+	5	0
+	+	2	10
+
+> ~/Desktop/交办范例.txt
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.bashrc
+	"	66	20
+	^	66	21
+	.	66	20
+	+	108	0
+	+	63	8
+	+	66	20
+
+> ~/.profile
+	"	24	0
+	.	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+
+> /media/RAN/boot/syslinux/syslinux.cfg
+	"	137	0
+	^	55	2
+	.	137	0
+	+	56	0
+	+	137	0
+
+> /var/tmp/fuckgfw.XXkNZA4Q
+	"	14	20
+	^	14	21
+	.	14	21
+	+	14	21
+
+> /var/tmp/fuckgfw.XXgir9ZZ
+	"	14	23
+	^	14	24
+	.	14	23
+	+	14	23
+
+> /usr/bin/fuckgfw
+	"	4	39
+	^	4	40
+	.	4	39
+	+	5	8
+	+	9	14
+	+	11	0
+	+	10	15
+	+	13	10
+	+	14	20
+	+	6	12
+	+	8	0
+	+	7	12
+	+	6	5
+	+	14	29
+	+	4	39
+
+> ~/[YankRing]
+	"	3	0
+	.	2	0
+	+	2	0
+
+> /var/tmp/larch.XXfr3KTd
+	"	42	0
+
+> /var/tmp/bash_completion.XXTZe1lu
+	"	55	11
+
+> /var/tmp/bash_completion.sh.XXFCnDbs
+	"	11	0
+
+> /var/tmp/locale.alias.XXnXbAYt
+	"	25	0
+	.	75	0
+	+	75	0
+
+> /var/tmp/locale.alias.XXD9FWv3
+	"	75	26
+	^	75	27
+	.	75	26
+	+	75	26
+
+> /var/tmp/profile.XXtsttsl
+	"	7	0
+
+> ~/.vim/doc/yankring.txt
+	"	28	48
+
+> ~/Downloads/[YankRing]
+	"	4	0
+	.	2	0
+	+	2	0
+
+> /usr/share/vim/vim72/doc/editing.txt
+	"	270	41
+
+> /tmp/vjX8fOw/0
+	"	24	0
+
+> /etc/hosts
+	"	3	0
+	^	4	21
+	.	4	20
+	+	4	20
+
+> ~/.vim_mru_files
+	"	3	0
+
+> ~/.vim/plugin/gtranslate.vim
+	"	1	0
+
+> ~/.vim/.netrwhist
+	"	1	0
+
+> ~/Public/src/test.py
+	"	2	0
+	.	3	0
+	+	12	0
+	+	1	3
+	+	2	9
+	+	12	0
+	+	12	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	1
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	10	0
+	+	8	0
+	+	6	0
+	+	4	15
+	+	1	0
+	+	3	0
+	+	3	0
+	+	3	0
+	+	3	0
+	c	1	0
+	n	1	0
+	q	1	0
+
+> ~/vimrc.bak
+	"	1	0
+	^	24	0
+	.	25	0
+	+	2	0
+	+	183	0
+	+	445	0
+	+	445	0
+	+	445	0
+	+	445	0
+	+	437	0
+	+	465	0
+	+	24	0
+	+	27	0
+	+	25	0
+
+> ~/.vim/[BufExplorer]
+	"	1	0
+
+> ~/.vim/plugin/hotkey.vim
+	"	9	0
+	.	9	0
+	+	10	0
+	+	10	24
+	+	10	0
+	+	10	17
+	+	10	0
+	+	10	0
+	+	8	0
+	+	10	0
+	+	10	27
+	+	10	0
+	+	10	0
+	+	10	16
+	+	10	16
+	+	10	26
+	+	10	16
+	+	10	25
+	+	10	15
+	+	10	15
+	+	10	0
+	+	9	0
+
+> /usr/share/vim/vim72/doc/tabpage.txt
+	"	181	28
+
+> /usr/share/vim/vim72/doc/help.txt
+	"	123	0
+
+> /usr/share/vim/vim72/doc/map.txt
+	"	502	42
+
+> ~/.vim/__MRU_Files__
+	"	1	0
+	.	1	0
+	+	4	0
+	+	4	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> ~/.vim/vundle.git/ftplugin/vim.vim
+	"	1	0
+
+> /usr/share/vim/vim72/doc/options.txt
+	"	4150	5
+
+> /usr/share/vim/vim72/doc/if_ruby.txt
+	"	15	0
+
+> /usr/share/vim/vim72/doc/various.txt
+	"	794	0
+
+> ~/.vim/bundle/==GoogleReader Entries==
+	"	1	0
+
+> /tmp/vg1rnSV/0
+	"	88	0
+
+> /tmp/vAGwdFH/0
+	"	135	0
+
+> ~/==GoogleReader Entries==
+	"	1	0
+
+> /tmp/vr3XJ4O/0
+	"	1	0
+
+> /usr/share/vim/vim72/doc/tips.txt
+	"	474	32
+
+> /tmp/vMFQY7b/1
+	"	3	0
+
+> ~/.emacs
+	"	13	0
+	.	14	0
+	+	1	0
+	+	1	47
+	+	1	49
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	29
+	+	1	0
+	+	1	56
+	+	1	17
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	2
+	+	1	0
+	+	1	2
+	+	1	0
+	+	1	51
+	+	1	0
+	+	1	41
+	+	1	12
+	+	1	10
+	+	1	0
+	+	1	53
+	+	1	17
+	+	1	0
+	+	1	0
+	+	1	44
+	+	1	0
+	+	1	34
+	+	1	0
+	+	14	0
+	+	14	0
+
+> /var/tmp/hostname.XXAAXgxB
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> /var/tmp/rc.local.XXcEFp5s
+	"	1	0
+
+> /var/tmp/rsyncd.conf.XXh6XqhT
+	"	6	3
+	^	6	4
+	.	6	3
+	+	7	18
+	+	6	3
+
+> /var/tmp/rsyncd.conf.XXCBrpDY
+	"	7	22
+	.	7	22
+	+	7	22
+
+> /var/tmp/rsyncd.conf.XXBppOU8
+	"	10	17
+	.	6	1
+	+	6	1
+
+> /var/tmp/rsyncd.conf.XXDHSefS
+	"	1	0
+
+> /var/tmp/rsyncd.conf.XXb4R94h
+	"	10	19
+	^	10	20
+	.	10	19
+	+	8	14
+	+	9	23
+	+	10	19
+
+> /var/tmp/rsyncd.conf.XXxLdEPl
+	"	7	23
+	^	7	24
+	.	7	23
+	+	7	23
+
+> /var/tmp/rsyncd.conf.XX2sZLWb
+	"	6	11
+	^	6	12
+	.	7	0
+	+	7	0
+
+> /var/tmp/rsyncd.conf.XXgoho1O
+	"	12	30
+	^	12	31
+	.	12	30
+	+	12	30
+
+> /var/tmp/sixand.secrets.XXqnTRRB
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> /var/tmp/sixand.secrets.XXTLEepu
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> /var/tmp/sixand.secrets.XX5P1xNz
+	"	1	0
+
+> /var/tmp/rsyncd.conf.XX3BPCE3
+	"	12	19
+
+> /var/tmp/rsyncd.conf.XXEXzsLW
+	"	12	19
+
+> /var/tmp/rsyncd.conf.XXohXOFB
+	"	12	19
+	^	12	52
+	.	12	47
+	+	14	0
+	+	8	0
+	+	11	0
+	+	13	0
+	+	14	0
+	+	13	0
+	+	10	0
+	+	12	47
+
+> /var/tmp/rsyncd.conf.XXbIkUIY
+	"	9	13
+	^	9	14
+	.	9	13
+	+	12	22
+	+	9	15
+	+	10	0
+	+	7	22
+	+	6	6
+	+	8	34
+	+	9	13
+
+> /var/tmp/rsyncd.conf.XXpd2jAF
+	"	1	0
+
+> /var/tmp/rsyncd.conf.XXioSE2G
+	"	3	20
+	^	3	21
+	.	3	20
+	+	3	20
+
+> /var/tmp/rsync.XXm0SkZJ
+	"	1	0
+
+> /var/tmp/insserv.conf.XX6FoOEI
+	"	1	0
+
+> /var/tmp/services.XXzFEZC5
+	"	306	0
+
+> /var/tmp/rsyncd.conf.XXjymxfQ
+	"	12	13
+	^	12	14
+	.	12	13
+	+	1	26
+	+	6	8
+	+	7	11
+	+	6	8
+	+	7	21
+	+	6	1
+	+	12	13
+
+> /var/tmp/rsyslog.conf.XXOgtalB
+	"	30	0
+
+> /var/tmp/rsync.XXzlI6HN
+	"	20	3
+	^	8	17
+	.	8	16
+	+	8	16
+
+> /var/tmp/fstab.XXFOsFWH
+	"	1	0
+
+> /usr/share/vim/vim72/doc/intro.txt
+	"	708	1
+
+> ~/ch1.pl
+	"	1	0
+	^	1	7
+	.	1	6
+	+	2	0
+	+	1	6
+
+> ~/.vim/plugin/check.vim
+	"	9	23
+	^	9	24
+	.	9	23
+	+	1	10
+	+	9	23
+
+> vim ~/check.vim
+	"	9	39
+	^	9	40
+	.	9	39
+	+	2	26
+	+	9	37
+	+	9	39
+
+> /usr/share/vim/vim72/doc/usr_41.txt
+	"	47	0
+
+> ~/.viper
+	"	2	27
+	^	2	28
+	.	2	27
+	+	1	0
+	+	2	27
+
+> ~/.emacsrc
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /var/tmp/ch1.pl.XXvgG99y
+	"	1	0
+
+> ~/.screenrc
+	"	4	17
+	^	4	18
+	.	4	17
+	+	1	12
+	+	5	0
+	+	2	0
+	+	5	0
+	+	2	0
+	+	3	14
+	+	3	16
+	+	4	16
+	+	3	15
+	+	4	17
+	+	4	17
+
+> ~/.screen
+	"	1	0
+
+> ~/.vim/__Tag_List__
+	"	3	0
+	.	4	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	5	0
+	+	4	0
+
+> /usr/include/sys/cdefs.h
+	"	100	33
+
+> ~/.vim/syntax/c.vim
+	"	35	0
+	^	40	0
+	.	35	0
+	+	41	0
+	+	41	0
+	+	41	0
+	+	41	0
+	+	41	0
+	+	41	0
+	+	33	41
+	+	7	0
+	+	2	3
+	+	1	0
+	+	34	0
+	+	39	1
+	+	35	0
+
+> ~/__Tag_List__
+	"	2	0
+	.	1	0
+	+	1	0
+
+> /etc/vim/vimrc.local
+	"	1	0
+	^	1	20
+	.	1	19
+	+	1	19
+
+> /etc/vim/vimrc
+	"	54	0
+
+> ~/pipe.py
+	"	69	0
+	.	1	0
+	+	1	0
+
+> /etc/apt/sources.list
+	"	63	56
+	^	63	57
+	.	63	0
+	+	63	0
+
+> /var/lib/locales/supported.d/zh
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /etc/locale.alias
+	"	71	31
+
+> /opt/firefox/firefox
+	"	60	0
+
+> /opt/firefox/run-mozilla.sh
+	"	40	30
+	^	40	31
+	.	40	30
+	+	41	29
+	+	40	30
+	+	67	23
+	+	41	29
+	+	40	30
+
+> /opt/firefox/firefox4
+	"	79	5
+
+> /opt/firefox/firefox-bin
+	"	58	0
+
+> /var/tmp/transmission.desktop.XXVMtjli
+	"	57	22
+	^	57	23
+	.	57	22
+	+	57	22
+
+> /etc/init.d/rc.local
+	"	23	2
+	.	23	0
+	+	23	0
+
+> /etc/init.d/rc
+	"	1	0
